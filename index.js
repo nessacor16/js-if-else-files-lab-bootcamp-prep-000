@@ -10,7 +10,7 @@ if (height == "74") {
 } else {
   console.log("74")
 }
-}
+
 // Don't worry about this
 module.exports = { name, height
 }
